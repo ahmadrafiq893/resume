@@ -8,3 +8,4 @@ pymupdf
 matplotlib
 seaborn
 xgboost
+gunicorn

@@ -311,13 +311,16 @@ def get_recommended_skills(target_role, current_skills):
 # ============================================
 
 if __name__ == "__main__":
+    port = int(os.environ.get("PORT", 5000))  # 🔥 REQUIRED FOR RAILWAY
+
     print("\n" + "="*50)
     print("🚀 AI RESUME ANALYZER")
     print("="*50)
-    if MODELS_READY:
-        print("✅ Models loaded successfully!")
-    else:
-        print("⚠️ Models not loaded. Run 'python train_model.py' first!")
-    print("🌐 Server: http://127.0.0.1:5000")
+    print("🌐 Server running on Railway")
     print("="*50 + "\n")
-    app.run(debug=True)
+
+    app.run(
+        host="0.0.0.0",   # 🔥 REQUIRED
+        port=port,
+        debug=False       # 🔥 IMPORTANT (disable debug on railway)
+    )
