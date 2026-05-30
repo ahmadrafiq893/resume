@@ -1,0 +1,301 @@
+ResumeID,Skills,Education,YearsExperience,Projects,Internships,CGPA,Certification,JobRole
+1,"Tableau, Data Analysis, Power BI, SQL, Excel, Python, Statistics, GitHub, MS Office, Critical Thinking",PhD,3,3,0,3.86,CCNA,Data Analyst
+2,"Data Analysis, Python, Excel, Data Visualization, Statistics, Power BI, Git",PhD,9,8,2,2.22,CCNA,Data Analyst
+3,"Tableau, Data Analysis, Pandas, SQL, Power BI, MS Office, Critical Thinking, GitHub",PhD,8,8,3,2.45,AWS CCP,Data Analyst
+4,"Data Visualization, Data Analysis, Python, Statistics, Excel, Problem Solving, Critical Thinking, MS Office",PhD,9,3,1,3.0,Azure Fundamentals,Data Analyst
+5,"Power BI, Statistics, Tableau, Excel, Data Visualization, Python, SQL, Data Analysis, Leadership, Communication",Masters,0,7,3,2.34,None,Data Analyst
+6,"Tableau, Python, Data Analysis, Pandas, SQL, Excel, Statistics, Data Visualization, Power BI, Communication, Critical Thinking",PhD,0,7,1,2.32,Azure Fundamentals,Data Analyst
+7,"Data Visualization, Excel, Tableau, Statistics, Python, Power BI, SQL, Data Analysis, Pandas, Git",Bachelors,9,5,0,2.9,AWS CCP,Data Analyst
+8,"Statistics, Python, Data Visualization, Data Analysis, SQL, Power BI, Excel, Tableau, Pandas, Communication, Problem Solving, MS Office",Bachelors,9,7,0,3.47,CCNA,Data Analyst
+9,"Statistics, SQL, Excel, Python, Critical Thinking, GitHub, Leadership",PhD,8,3,3,3.4,Google Data Analytics,Data Analyst
+10,"Data Visualization, Power BI, Excel, SQL, Python, Statistics, Leadership, Communication, Git",Masters,7,1,0,2.56,TensorFlow Developer,Data Analyst
+11,"Tableau, Statistics, Power BI, Data Visualization, SQL, Pandas, GitHub",PhD,4,1,3,3.78,CCNA,Data Analyst
+12,"Power BI, Python, Excel, Data Analysis, SQL, Pandas, Tableau, GitHub, Critical Thinking, Teamwork",PhD,1,4,2,3.74,AWS CCP,Data Analyst
+13,"Tableau, Statistics, Python, Power BI, Data Visualization, Pandas, Data Analysis, SQL, Communication, Teamwork",Bachelors,0,7,1,3.21,CCNA,Data Analyst
+14,"Python, Power BI, SQL, Statistics, Problem Solving, Leadership",Bachelors,7,4,0,3.77,Azure Fundamentals,Data Analyst
+15,"SQL, Statistics, Excel, Pandas, Python, MS Office, Communication",Masters,6,6,2,3.82,Google Data Analytics,Data Analyst
+16,"Data Analysis, Python, Tableau, Pandas, Power BI, Statistics, SQL, Git, Critical Thinking, Problem Solving",PhD,9,8,1,2.59,None,Data Analyst
+17,"SQL, Excel, Pandas, Data Visualization, Problem Solving",Bachelors,10,7,0,3.59,CCNA,Data Analyst
+18,"Statistics, Data Analysis, Data Visualization, Pandas, Excel, Power BI, Python, SQL, GitHub, Teamwork, Git",Bachelors,1,1,2,3.01,TensorFlow Developer,Data Analyst
+19,"Excel, Data Analysis, Python, Pandas, SQL, Data Visualization, Teamwork, Critical Thinking",Bachelors,2,5,0,3.86,TensorFlow Developer,Data Analyst
+20,"Python, SQL, Data Visualization, Excel, Tableau, Data Analysis, Critical Thinking",Bachelors,6,3,0,3.68,Azure Fundamentals,Data Analyst
+21,"Pandas, Scikit-Learn, Statistics, Python, Machine Learning, NumPy, Deep Learning, Leadership",Masters,2,3,3,2.58,Google Data Analytics,Data Scientist
+22,"Python, Pandas, Statistics, Machine Learning, Scikit-Learn, Deep Learning, NumPy, SQL, MS Office",Bachelors,3,1,2,2.08,AWS CCP,Data Scientist
+23,"NumPy, Deep Learning, Statistics, Python, Leadership",Masters,1,7,1,3.73,TensorFlow Developer,Data Scientist
+24,"SQL, Scikit-Learn, Machine Learning, Deep Learning, Python, NumPy, GitHub, Git, Critical Thinking",Bachelors,0,8,2,3.74,CCNA,Data Scientist
+25,"NumPy, Deep Learning, Statistics, Pandas, Scikit-Learn, Python, Machine Learning, SQL, MS Office, GitHub",PhD,10,4,1,2.36,CCNA,Data Scientist
+26,"Scikit-Learn, Deep Learning, Python, Statistics, Pandas, Machine Learning, Critical Thinking, Leadership",Masters,7,2,1,3.5,TensorFlow Developer,Data Scientist
+27,"Pandas, Deep Learning, Scikit-Learn, SQL, NumPy, Machine Learning, Statistics, Python, Git",Masters,1,5,0,3.81,Google Data Analytics,Data Scientist
+28,"Statistics, NumPy, Deep Learning, SQL, Critical Thinking, Leadership, Problem Solving",Masters,4,2,0,2.03,Azure Fundamentals,Data Scientist
+29,"Python, Machine Learning, Pandas, SQL, NumPy, Deep Learning, Critical Thinking, Git, Teamwork",Masters,1,3,2,3.66,Google Data Analytics,Data Scientist
+30,"Machine Learning, Statistics, SQL, Scikit-Learn, Pandas, Deep Learning, Critical Thinking, Problem Solving, Teamwork",Bachelors,2,4,1,2.56,TensorFlow Developer,Data Scientist
+31,"NumPy, Statistics, Scikit-Learn, Machine Learning, Pandas, Deep Learning, SQL, Python, GitHub, Problem Solving, Git",PhD,7,6,2,2.79,Azure Fundamentals,Data Scientist
+32,"Machine Learning, NumPy, Pandas, Statistics, Deep Learning, Python, Scikit-Learn, Problem Solving",Masters,10,7,0,2.62,TensorFlow Developer,Data Scientist
+33,"Scikit-Learn, Python, SQL, Pandas, Machine Learning, MS Office",Bachelors,2,3,1,3.49,CCNA,Data Scientist
+34,"SQL, Machine Learning, NumPy, Deep Learning, Python, Scikit-Learn, Pandas, Statistics, Git, MS Office, Communication",Bachelors,1,1,0,2.22,None,Data Scientist
+35,"SQL, Scikit-Learn, NumPy, Python, Pandas, MS Office, Critical Thinking",Bachelors,6,8,2,3.57,Azure Fundamentals,Data Scientist
+36,"Pandas, SQL, Deep Learning, Machine Learning, Python, NumPy, Communication",PhD,9,4,3,3.21,Google Data Analytics,Data Scientist
+37,"Python, Scikit-Learn, Machine Learning, Deep Learning, SQL, NumPy, Critical Thinking, Teamwork",Masters,6,7,1,2.34,CCNA,Data Scientist
+38,"Deep Learning, Python, NumPy, Scikit-Learn, Pandas, Machine Learning, SQL, Teamwork, Git",Bachelors,2,4,0,3.31,None,Data Scientist
+39,"Pandas, SQL, Python, NumPy, Statistics, Deep Learning, Scikit-Learn, Machine Learning, Communication",Bachelors,8,6,3,2.02,Google Data Analytics,Data Scientist
+40,"Pandas, Python, Statistics, Deep Learning, Scikit-Learn, SQL, Teamwork, Critical Thinking, Problem Solving",Masters,5,1,1,3.4,None,Data Scientist
+41,"Machine Learning, Python, PyTorch, Deep Learning, Docker, MS Office, Git, Leadership",Masters,6,7,1,2.63,Azure Fundamentals,ML Engineer
+42,"Python, PyTorch, Machine Learning, Deep Learning, GitHub",PhD,8,6,3,3.09,AWS CCP,ML Engineer
+43,"TensorFlow, Machine Learning, Python, PyTorch, Docker, Deep Learning, Problem Solving, Leadership, Communication",Bachelors,8,4,0,3.04,CCNA,ML Engineer
+44,"Deep Learning, PyTorch, TensorFlow, Python, Docker, Machine Learning, Problem Solving, GitHub, Teamwork",PhD,7,4,1,3.95,AWS CCP,ML Engineer
+45,"TensorFlow, Python, Machine Learning, Docker, Git, GitHub",PhD,0,8,3,3.11,Azure Fundamentals,ML Engineer
+46,"TensorFlow, PyTorch, Python, Problem Solving, GitHub",PhD,2,8,2,3.34,Google Data Analytics,ML Engineer
+47,"Deep Learning, TensorFlow, Docker, Python, Machine Learning, PyTorch, GitHub, Git, Teamwork",PhD,10,6,1,3.31,AWS CCP,ML Engineer
+48,"TensorFlow, Docker, Machine Learning, Critical Thinking",PhD,7,4,3,2.72,TensorFlow Developer,ML Engineer
+49,"PyTorch, TensorFlow, Deep Learning, GitHub",Bachelors,2,8,1,2.64,Google Data Analytics,ML Engineer
+50,"TensorFlow, Python, Docker, Critical Thinking",Masters,1,7,2,2.95,None,ML Engineer
+51,"Deep Learning, Docker, Python, PyTorch, TensorFlow, Git",Masters,3,3,3,3.22,Azure Fundamentals,ML Engineer
+52,"Python, Docker, TensorFlow, Machine Learning, Git, Critical Thinking",Masters,6,7,0,3.06,Azure Fundamentals,ML Engineer
+53,"Deep Learning, Machine Learning, Python, Docker, PyTorch, TensorFlow, Critical Thinking, Problem Solving, Leadership",Bachelors,8,2,2,3.29,None,ML Engineer
+54,"Deep Learning, TensorFlow, PyTorch, Leadership, Teamwork",Masters,7,3,2,3.04,TensorFlow Developer,ML Engineer
+55,"TensorFlow, Deep Learning, Python, PyTorch, Docker, Machine Learning, Communication",Masters,9,7,1,3.67,Azure Fundamentals,ML Engineer
+56,"Docker, Machine Learning, TensorFlow, Python, PyTorch, Deep Learning, Git",Masters,2,5,3,2.12,Google Data Analytics,ML Engineer
+57,"TensorFlow, PyTorch, Deep Learning, Machine Learning, Docker, Python, Problem Solving",Masters,2,7,2,2.31,AWS CCP,ML Engineer
+58,"PyTorch, TensorFlow, Python, Machine Learning, Deep Learning, Critical Thinking, Communication",PhD,8,4,3,2.71,TensorFlow Developer,ML Engineer
+59,"Deep Learning, Python, TensorFlow, Machine Learning, Leadership, Problem Solving, Git",PhD,6,1,2,3.89,CCNA,ML Engineer
+60,"Deep Learning, Machine Learning, TensorFlow, Git, Leadership",Bachelors,1,2,1,2.95,None,ML Engineer
+61,"Deep Learning, NLP, TensorFlow, PyTorch, Computer Vision, Machine Learning, Python, Problem Solving, Teamwork",PhD,5,3,0,3.34,CCNA,AI Engineer
+62,"PyTorch, Machine Learning, Python, Leadership, Git, Communication",Bachelors,7,3,0,2.32,TensorFlow Developer,AI Engineer
+63,"Python, NLP, TensorFlow, Machine Learning, Computer Vision, Deep Learning, PyTorch, Communication, Problem Solving",PhD,7,7,2,2.29,Azure Fundamentals,AI Engineer
+64,"NLP, Computer Vision, TensorFlow, Machine Learning, Deep Learning, Teamwork",Bachelors,1,4,2,2.34,Google Data Analytics,AI Engineer
+65,"Computer Vision, Python, Machine Learning, PyTorch, Critical Thinking, MS Office",PhD,8,1,2,2.2,AWS CCP,AI Engineer
+66,"NLP, Machine Learning, Deep Learning, TensorFlow, Computer Vision, Communication, Leadership",PhD,6,6,0,2.95,TensorFlow Developer,AI Engineer
+67,"TensorFlow, Python, PyTorch, NLP, Machine Learning, Critical Thinking, GitHub",PhD,6,7,3,3.79,TensorFlow Developer,AI Engineer
+68,"NLP, PyTorch, TensorFlow, Leadership, Critical Thinking",PhD,0,2,2,3.99,None,AI Engineer
+69,"Deep Learning, PyTorch, NLP, Machine Learning, Communication, Problem Solving",Masters,0,7,3,2.02,Google Data Analytics,AI Engineer
+70,"Machine Learning, Computer Vision, PyTorch, Deep Learning, Teamwork",PhD,10,1,0,3.5,Azure Fundamentals,AI Engineer
+71,"Machine Learning, PyTorch, TensorFlow, Python, NLP, GitHub",PhD,5,4,1,3.53,None,AI Engineer
+72,"Deep Learning, Computer Vision, Python, TensorFlow, PyTorch, Machine Learning, Critical Thinking, Teamwork, MS Office",Bachelors,6,3,2,3.18,Azure Fundamentals,AI Engineer
+73,"NLP, Computer Vision, Deep Learning, TensorFlow, Machine Learning, Communication",Bachelors,7,2,1,3.68,Google Data Analytics,AI Engineer
+74,"PyTorch, Computer Vision, Deep Learning, Python, Machine Learning, TensorFlow, Communication, Teamwork",Bachelors,6,2,1,3.27,AWS CCP,AI Engineer
+75,"Machine Learning, Deep Learning, TensorFlow, PyTorch, Computer Vision, Python, Teamwork, GitHub, Git",Masters,0,4,1,2.69,CCNA,AI Engineer
+76,"NLP, PyTorch, Deep Learning, Computer Vision, Machine Learning, Git, Critical Thinking",Masters,5,5,0,2.23,TensorFlow Developer,AI Engineer
+77,"PyTorch, TensorFlow, Machine Learning, Python, Critical Thinking",PhD,10,7,3,2.48,Google Data Analytics,AI Engineer
+78,"TensorFlow, Computer Vision, Deep Learning, Machine Learning, Leadership, Communication",Masters,5,3,3,3.59,None,AI Engineer
+79,"Deep Learning, PyTorch, Machine Learning, Communication",PhD,8,4,0,2.8,Google Data Analytics,AI Engineer
+80,"Machine Learning, Deep Learning, Computer Vision, Python, PyTorch, NLP, MS Office, Problem Solving, Leadership",Masters,4,7,1,3.61,AWS CCP,AI Engineer
+81,"Git, Python, GitHub, Teamwork, GitHub",Bachelors,4,3,0,2.68,Google Data Analytics,Software Engineer
+82,"Java, Python, C++, GitHub, Git, Leadership, Teamwork",Masters,4,5,1,2.47,AWS CCP,Software Engineer
+83,"Git, Java, GitHub, GitHub, Critical Thinking",Bachelors,8,8,0,2.26,Azure Fundamentals,Software Engineer
+84,"GitHub, C++, Git, Java, GitHub",Bachelors,6,7,3,2.19,CCNA,Software Engineer
+85,"Git, Python, GitHub, Communication, Teamwork",Bachelors,8,5,1,2.16,Azure Fundamentals,Software Engineer
+86,"Python, GitHub, Java, C++, MS Office",Masters,1,1,0,2.61,CCNA,Software Engineer
+87,"Git, GitHub, C++, Java, Python, Problem Solving, Teamwork, GitHub",Masters,4,6,1,3.6,CCNA,Software Engineer
+88,"Python, Java, GitHub, Teamwork, Leadership",Bachelors,10,6,2,2.52,CCNA,Software Engineer
+89,"Java, C++, GitHub, Git, Teamwork",PhD,0,7,3,3.14,CCNA,Software Engineer
+90,"Git, GitHub, C++, Java, Python, Critical Thinking, Git, Problem Solving",Masters,9,2,2,2.06,AWS CCP,Software Engineer
+91,"Git, Java, C++, Teamwork, Leadership, Problem Solving",Masters,7,8,0,2.07,TensorFlow Developer,Software Engineer
+92,"GitHub, Git, Python, C++, Java, Problem Solving, GitHub, Communication",Bachelors,5,4,1,2.04,Google Data Analytics,Software Engineer
+93,"Git, C++, Java, Teamwork",Bachelors,7,6,3,3.55,TensorFlow Developer,Software Engineer
+94,"GitHub, Python, Java, Communication, GitHub",Masters,0,6,2,3.44,None,Software Engineer
+95,"Java, Python, GitHub, Git, C++, MS Office",Bachelors,8,4,1,2.09,CCNA,Software Engineer
+96,"GitHub, C++, Python, Java, Git, GitHub, Leadership, Critical Thinking",Bachelors,3,4,2,2.36,CCNA,Software Engineer
+97,"Python, GitHub, Git, C++, Java, Communication, MS Office, Problem Solving",PhD,9,5,1,2.6,Google Data Analytics,Software Engineer
+98,"Git, GitHub, C++, Python, Java, Communication, Git, MS Office",Masters,2,6,3,3.08,None,Software Engineer
+99,"Git, Java, GitHub, Critical Thinking, Leadership, Problem Solving",Bachelors,2,6,1,2.59,AWS CCP,Software Engineer
+100,"Python, C++, Git, GitHub, Java, Leadership",Masters,0,3,0,3.43,CCNA,Software Engineer
+101,"JavaScript, Angular, HTML, Bootstrap, Problem Solving",Bachelors,4,4,2,3.26,TensorFlow Developer,Frontend Developer
+102,"CSS, HTML, Angular, Bootstrap, Git, Communication",Bachelors,0,2,2,3.72,TensorFlow Developer,Frontend Developer
+103,"Angular, CSS, Bootstrap, HTML, GitHub",PhD,9,6,2,2.04,AWS CCP,Frontend Developer
+104,"Angular, HTML, React, Bootstrap, Communication",PhD,7,3,3,3.62,AWS CCP,Frontend Developer
+105,"CSS, React, HTML, JavaScript, Angular, Bootstrap, Leadership, Git",Masters,3,8,1,2.51,Azure Fundamentals,Frontend Developer
+106,"Angular, Bootstrap, JavaScript, React, HTML, CSS, Teamwork",Bachelors,10,3,1,3.49,CCNA,Frontend Developer
+107,"JavaScript, HTML, Bootstrap, React, Critical Thinking, Git",PhD,9,5,0,2.22,Azure Fundamentals,Frontend Developer
+108,"React, Bootstrap, JavaScript, HTML, Git, Problem Solving",PhD,0,7,0,3.18,Google Data Analytics,Frontend Developer
+109,"Angular, CSS, JavaScript, HTML, React, Git",Masters,4,2,3,2.67,AWS CCP,Frontend Developer
+110,"React, CSS, HTML, Angular, Bootstrap, Problem Solving, Git",PhD,3,1,1,3.14,TensorFlow Developer,Frontend Developer
+111,"Angular, Bootstrap, HTML, CSS, JavaScript, React, Teamwork, MS Office",Bachelors,5,4,3,3.41,CCNA,Frontend Developer
+112,"Angular, HTML, React, JavaScript, Bootstrap, Communication, MS Office, Problem Solving",PhD,0,4,2,3.27,AWS CCP,Frontend Developer
+113,"Bootstrap, HTML, Angular, JavaScript, MS Office, Leadership, Teamwork",Masters,9,3,0,2.06,None,Frontend Developer
+114,"React, JavaScript, HTML, Leadership",Bachelors,2,1,1,2.18,CCNA,Frontend Developer
+115,"Bootstrap, JavaScript, React, GitHub, Communication, Leadership",Bachelors,10,4,1,2.9,Google Data Analytics,Frontend Developer
+116,"Bootstrap, React, JavaScript, Git, Critical Thinking",PhD,5,3,1,3.55,TensorFlow Developer,Frontend Developer
+117,"React, Bootstrap, JavaScript, Angular, CSS, Git, MS Office",Bachelors,1,6,0,2.3,Google Data Analytics,Frontend Developer
+118,"JavaScript, React, Bootstrap, CSS, GitHub",PhD,10,7,3,2.81,None,Frontend Developer
+119,"React, HTML, Angular, Problem Solving, MS Office, Critical Thinking",Bachelors,2,4,1,2.44,Google Data Analytics,Frontend Developer
+120,"Bootstrap, HTML, CSS, Angular, Git",PhD,7,2,2,2.76,Azure Fundamentals,Frontend Developer
+121,"Java, Node.js, Laravel, SQL, Python, Django, PHP, Flask, MS Office, GitHub, Communication",PhD,6,2,0,3.12,None,Backend Developer
+122,"Django, Laravel, Flask, Java, GitHub, Communication, Leadership",PhD,0,4,2,3.42,Google Data Analytics,Backend Developer
+123,"Express.js, Laravel, SQL, Python, Node.js, Django, Flask, GitHub",Bachelors,0,2,0,3.59,CCNA,Backend Developer
+124,"Django, Java, Python, Flask, Laravel, Teamwork, MS Office, Git",Masters,1,8,3,2.84,Azure Fundamentals,Backend Developer
+125,"Python, Laravel, Java, Django, Flask, PHP, Express.js, Node.js, SQL, MS Office, Git, GitHub",Bachelors,5,3,0,2.12,AWS CCP,Backend Developer
+126,"SQL, Python, Node.js, Express.js, Java, Flask, Django, Git, MS Office",Bachelors,9,6,0,3.78,TensorFlow Developer,Backend Developer
+127,"Django, Java, SQL, Express.js, Flask, Python, PHP, Communication",Masters,5,3,2,3.78,TensorFlow Developer,Backend Developer
+128,"Laravel, Python, Express.js, Flask, Django, MS Office",PhD,7,1,3,2.77,Google Data Analytics,Backend Developer
+129,"PHP, Flask, Django, Python, SQL, Node.js, Express.js, Laravel, Java, Git, Teamwork",Masters,9,7,3,2.92,AWS CCP,Backend Developer
+130,"Laravel, Django, SQL, Flask, Express.js, Java, MS Office",Bachelors,6,4,1,3.27,TensorFlow Developer,Backend Developer
+131,"Express.js, Java, Laravel, SQL, Python, Node.js, Django, Flask, PHP, Communication, Git, MS Office",Masters,9,1,3,2.93,Azure Fundamentals,Backend Developer
+132,"Python, Java, Node.js, Django, Laravel, SQL, PHP, MS Office, Communication, Leadership",Bachelors,6,1,1,3.95,AWS CCP,Backend Developer
+133,"Python, Flask, Laravel, SQL, Node.js, Django, Communication, Teamwork",Bachelors,5,4,3,2.25,Azure Fundamentals,Backend Developer
+134,"PHP, Laravel, Express.js, Django, Flask, Node.js, Java, Critical Thinking, Teamwork, MS Office",Bachelors,9,7,1,3.62,AWS CCP,Backend Developer
+135,"Flask, SQL, PHP, Django, Laravel, Java, Express.js, Python, Leadership, Git, GitHub",Bachelors,5,5,1,2.26,AWS CCP,Backend Developer
+136,"PHP, Java, Express.js, Flask, Laravel, SQL, Python, Django, Communication, Git, Critical Thinking",PhD,8,2,2,2.6,Google Data Analytics,Backend Developer
+137,"Django, Python, Java, Laravel, Flask, Communication, Git, Problem Solving",Bachelors,4,8,0,3.64,AWS CCP,Backend Developer
+138,"Express.js, PHP, Python, Flask, Git, Teamwork",PhD,3,6,3,3.1,Azure Fundamentals,Backend Developer
+139,"PHP, Python, Express.js, Node.js, SQL, GitHub, Teamwork, Critical Thinking",PhD,6,4,3,2.71,AWS CCP,Backend Developer
+140,"Java, PHP, Laravel, Node.js, Express.js, Django, Leadership, Problem Solving",Masters,5,1,0,2.45,Google Data Analytics,Backend Developer
+141,"React, JavaScript, SQL, HTML, Git, MongoDB, CSS, GitHub",Bachelors,3,2,3,2.15,Google Data Analytics,Full Stack Developer
+142,"MongoDB, SQL, HTML, Node.js, CSS, GitHub, Leadership",Masters,6,7,1,3.45,TensorFlow Developer,Full Stack Developer
+143,"JavaScript, SQL, React, CSS, MongoDB, Git, Critical Thinking, MS Office, Problem Solving",PhD,7,6,3,2.54,None,Full Stack Developer
+144,"CSS, SQL, MongoDB, Git, JavaScript, Node.js, React, GitHub",PhD,9,2,3,2.0,None,Full Stack Developer
+145,"SQL, HTML, Node.js, CSS, MS Office, GitHub",Bachelors,6,2,3,2.24,TensorFlow Developer,Full Stack Developer
+146,"Git, CSS, JavaScript, HTML, Node.js, SQL, React, MongoDB, Critical Thinking",PhD,3,2,0,3.51,None,Full Stack Developer
+147,"JavaScript, HTML, SQL, React, Node.js, CSS, GitHub, MS Office, Leadership",Bachelors,6,4,0,2.79,Google Data Analytics,Full Stack Developer
+148,"CSS, Node.js, SQL, React, MongoDB, HTML, JavaScript, Teamwork, Problem Solving",Masters,4,4,0,2.41,CCNA,Full Stack Developer
+149,"Git, MongoDB, SQL, Node.js, JavaScript, HTML, CSS, React, Critical Thinking, Git, Teamwork",PhD,10,8,0,3.39,Azure Fundamentals,Full Stack Developer
+150,"Git, MongoDB, SQL, HTML, JavaScript, React, CSS, Problem Solving, Teamwork, Leadership",Bachelors,4,1,3,3.08,AWS CCP,Full Stack Developer
+151,"MongoDB, Node.js, SQL, JavaScript, React, CSS, Problem Solving",Bachelors,8,7,0,2.34,AWS CCP,Full Stack Developer
+152,"MongoDB, JavaScript, SQL, React, Git, CSS, Critical Thinking",PhD,3,7,3,2.93,None,Full Stack Developer
+153,"Git, Node.js, React, CSS, HTML, JavaScript, MongoDB, Git, Communication, Teamwork",Bachelors,5,2,1,2.27,Azure Fundamentals,Full Stack Developer
+154,"React, MongoDB, Git, Node.js, Critical Thinking, Problem Solving",Masters,0,3,1,3.56,CCNA,Full Stack Developer
+155,"MongoDB, JavaScript, SQL, React, Node.js, Communication, Git, Teamwork",Masters,1,1,2,3.24,AWS CCP,Full Stack Developer
+156,"Git, HTML, CSS, MongoDB, Node.js, React, SQL, JavaScript, Critical Thinking, Leadership, GitHub",PhD,7,1,2,2.1,Azure Fundamentals,Full Stack Developer
+157,"Node.js, HTML, JavaScript, CSS, MongoDB, Git, React, GitHub, MS Office, Problem Solving",Masters,10,5,0,2.38,TensorFlow Developer,Full Stack Developer
+158,"CSS, SQL, JavaScript, Node.js, HTML, Problem Solving",PhD,4,8,1,3.02,TensorFlow Developer,Full Stack Developer
+159,"Git, SQL, Node.js, HTML, GitHub",Masters,8,1,3,2.89,Google Data Analytics,Full Stack Developer
+160,"SQL, HTML, CSS, Git, Node.js, MongoDB, JavaScript, React, MS Office",PhD,9,5,1,2.9,Azure Fundamentals,Full Stack Developer
+161,"Docker, Azure, CI/CD, AWS, Critical Thinking, Problem Solving",Masters,5,1,3,3.52,AWS CCP,DevOps Engineer
+162,"Kubernetes, Azure, AWS, CI/CD, Docker, Linux, Problem Solving, MS Office, Leadership",PhD,3,6,2,2.15,TensorFlow Developer,DevOps Engineer
+163,"Linux, Docker, Kubernetes, Azure, AWS, Teamwork, Communication",PhD,4,7,0,2.73,Azure Fundamentals,DevOps Engineer
+164,"Docker, Kubernetes, Azure, CI/CD, Problem Solving",Masters,0,5,1,2.4,None,DevOps Engineer
+165,"Linux, CI/CD, Azure, AWS, Problem Solving",Masters,0,8,3,2.98,Google Data Analytics,DevOps Engineer
+166,"AWS, Kubernetes, Docker, Azure, Linux, Leadership",PhD,1,6,2,2.51,None,DevOps Engineer
+167,"CI/CD, Linux, Kubernetes, Git",PhD,0,1,3,3.78,None,DevOps Engineer
+168,"Linux, AWS, Docker, Kubernetes, Azure, Critical Thinking, Teamwork, Git",Bachelors,5,6,3,2.93,AWS CCP,DevOps Engineer
+169,"Kubernetes, Azure, CI/CD, Docker, AWS, Linux, Teamwork, Problem Solving, Communication",Masters,5,8,3,2.25,Azure Fundamentals,DevOps Engineer
+170,"Azure, Linux, Kubernetes, CI/CD, AWS, Problem Solving, Leadership",PhD,10,6,0,2.76,None,DevOps Engineer
+171,"Kubernetes, Docker, Linux, Azure, AWS, MS Office",Bachelors,3,2,0,3.75,TensorFlow Developer,DevOps Engineer
+172,"Linux, AWS, Docker, CI/CD, Kubernetes, Azure, GitHub",Masters,8,8,3,2.33,Google Data Analytics,DevOps Engineer
+173,"Linux, CI/CD, Azure, Docker, AWS, Kubernetes, Communication, Problem Solving",Masters,4,1,0,2.33,AWS CCP,DevOps Engineer
+174,"CI/CD, Kubernetes, Linux, Communication, Git, MS Office",PhD,6,4,2,2.59,AWS CCP,DevOps Engineer
+175,"Linux, AWS, Azure, CI/CD, Kubernetes, Leadership",Masters,3,2,1,2.11,None,DevOps Engineer
+176,"Azure, CI/CD, Docker, Problem Solving, MS Office, Teamwork",PhD,5,6,2,2.87,TensorFlow Developer,DevOps Engineer
+177,"CI/CD, Kubernetes, Docker, Linux, Azure, AWS, Git, Problem Solving, GitHub",PhD,7,3,1,2.1,CCNA,DevOps Engineer
+178,"Kubernetes, CI/CD, Azure, Linux, Docker, AWS, Teamwork, Communication, Leadership",Bachelors,6,3,3,3.34,Azure Fundamentals,DevOps Engineer
+179,"Docker, Linux, AWS, Azure, Critical Thinking",Masters,10,6,1,3.6,Google Data Analytics,DevOps Engineer
+180,"Linux, CI/CD, Azure, Kubernetes, AWS, Problem Solving",Bachelors,7,4,3,2.88,None,DevOps Engineer
+181,"Docker, Azure, Google Cloud, Git",PhD,0,3,3,2.56,None,Cloud Engineer
+182,"Azure, Linux, Google Cloud, Problem Solving",PhD,0,3,0,3.84,CCNA,Cloud Engineer
+183,"Linux, Google Cloud, Docker, Azure, Critical Thinking, GitHub, Git",PhD,4,2,3,3.69,Azure Fundamentals,Cloud Engineer
+184,"AWS, Docker, Google Cloud, Git, Problem Solving",Masters,0,6,3,2.45,CCNA,Cloud Engineer
+185,"Docker, Linux, Google Cloud, Critical Thinking",Masters,7,2,2,3.52,AWS CCP,Cloud Engineer
+186,"Docker, Linux, AWS, Problem Solving, GitHub",PhD,0,6,2,3.62,Google Data Analytics,Cloud Engineer
+187,"Azure, Google Cloud, Docker, AWS, Linux, Communication, Git, MS Office",Masters,10,8,3,3.68,TensorFlow Developer,Cloud Engineer
+188,"Azure, Docker, AWS, Linux, Google Cloud, Teamwork",Masters,6,5,0,3.32,None,Cloud Engineer
+189,"Linux, Docker, Azure, Leadership, Problem Solving",PhD,8,1,1,3.83,None,Cloud Engineer
+190,"Linux, Google Cloud, Azure, Docker, AWS, Teamwork, Critical Thinking",PhD,10,4,3,3.97,Google Data Analytics,Cloud Engineer
+191,"Docker, Azure, AWS, Linux, Google Cloud, Problem Solving, Communication, GitHub",Masters,0,4,2,2.07,AWS CCP,Cloud Engineer
+192,"Linux, AWS, Google Cloud, Docker, Critical Thinking, Teamwork",PhD,8,8,3,3.82,TensorFlow Developer,Cloud Engineer
+193,"Linux, Docker, Azure, Communication",Masters,5,7,2,2.91,None,Cloud Engineer
+194,"Linux, AWS, Google Cloud, Leadership, Communication, GitHub",Bachelors,3,3,3,3.5,Google Data Analytics,Cloud Engineer
+195,"Azure, AWS, Linux, Docker, Google Cloud, Problem Solving, Git, Teamwork",Bachelors,7,5,2,3.25,None,Cloud Engineer
+196,"Linux, AWS, Docker, Google Cloud, Teamwork, Communication, Critical Thinking",Masters,1,3,0,2.79,Google Data Analytics,Cloud Engineer
+197,"Linux, Azure, AWS, Docker, Critical Thinking, Problem Solving, GitHub",Masters,7,2,1,2.29,None,Cloud Engineer
+198,"Linux, Google Cloud, Azure, AWS, Docker, Critical Thinking, Communication",Masters,5,4,3,2.69,TensorFlow Developer,Cloud Engineer
+199,"Google Cloud, AWS, Docker, Leadership, MS Office",Bachelors,0,7,1,2.81,Azure Fundamentals,Cloud Engineer
+200,"Azure, Linux, Google Cloud, AWS, GitHub, Critical Thinking, Git",Bachelors,1,4,1,2.15,None,Cloud Engineer
+201,"Ethical Hacking, Penetration Testing, Risk Assessment, Linux, Networking, Communication, Leadership, MS Office",Masters,4,2,1,2.46,CCNA,Cyber Security Analyst
+202,"Risk Assessment, Penetration Testing, Networking, Linux, Leadership",Masters,6,5,3,2.97,AWS CCP,Cyber Security Analyst
+203,"Risk Assessment, Linux, Networking, Communication",Masters,5,6,2,2.9,Azure Fundamentals,Cyber Security Analyst
+204,"Ethical Hacking, Penetration Testing, Linux, Networking, GitHub",Bachelors,1,4,1,3.61,Google Data Analytics,Cyber Security Analyst
+205,"Linux, Ethical Hacking, Penetration Testing, Problem Solving",PhD,5,4,3,2.41,Google Data Analytics,Cyber Security Analyst
+206,"Networking, Linux, Ethical Hacking, Leadership, Teamwork, Communication",Masters,10,1,1,3.09,Google Data Analytics,Cyber Security Analyst
+207,"Linux, Ethical Hacking, Risk Assessment, Leadership, Communication",PhD,2,7,1,2.79,None,Cyber Security Analyst
+208,"Networking, Linux, Ethical Hacking, Penetration Testing, MS Office, Communication",Bachelors,6,5,2,2.82,TensorFlow Developer,Cyber Security Analyst
+209,"Linux, Penetration Testing, Ethical Hacking, MS Office, Teamwork, Critical Thinking",Bachelors,3,4,0,3.48,Google Data Analytics,Cyber Security Analyst
+210,"Networking, Linux, Penetration Testing, Risk Assessment, GitHub, MS Office, Critical Thinking",Bachelors,8,7,1,3.69,TensorFlow Developer,Cyber Security Analyst
+211,"Penetration Testing, Ethical Hacking, Linux, Networking, Risk Assessment, Communication, Git",Masters,0,2,1,2.91,Google Data Analytics,Cyber Security Analyst
+212,"Penetration Testing, Risk Assessment, Networking, Leadership",Bachelors,5,8,3,2.73,None,Cyber Security Analyst
+213,"Risk Assessment, Penetration Testing, Networking, MS Office, GitHub, Git",Bachelors,8,5,2,2.38,AWS CCP,Cyber Security Analyst
+214,"Linux, Ethical Hacking, Risk Assessment, Networking, Communication, Teamwork",Masters,7,7,0,3.13,None,Cyber Security Analyst
+215,"Networking, Penetration Testing, Risk Assessment, Ethical Hacking, Linux, Problem Solving",Masters,8,3,3,3.85,AWS CCP,Cyber Security Analyst
+216,"Linux, Risk Assessment, Penetration Testing, Ethical Hacking, Communication",Bachelors,4,4,1,2.29,Azure Fundamentals,Cyber Security Analyst
+217,"Penetration Testing, Risk Assessment, Linux, Ethical Hacking, Teamwork",Bachelors,2,7,1,2.5,Azure Fundamentals,Cyber Security Analyst
+218,"Penetration Testing, Networking, Linux, Leadership",Masters,1,1,1,3.23,TensorFlow Developer,Cyber Security Analyst
+219,"Penetration Testing, Networking, Risk Assessment, Linux, Problem Solving, MS Office",Masters,5,3,2,3.05,Azure Fundamentals,Cyber Security Analyst
+220,"Penetration Testing, Risk Assessment, Networking, Linux, Ethical Hacking, MS Office",PhD,4,3,3,3.94,Azure Fundamentals,Cyber Security Analyst
+221,"Database Management, MySQL, PostgreSQL, MongoDB, SQL, Leadership, Critical Thinking, Problem Solving",Bachelors,0,4,2,3.8,None,Database Administrator
+222,"PostgreSQL, Database Management, MySQL, MongoDB, SQL, Teamwork",Masters,7,7,0,2.49,CCNA,Database Administrator
+223,"MySQL, PostgreSQL, Database Management, MS Office, Critical Thinking",Masters,9,5,2,2.15,CCNA,Database Administrator
+224,"SQL, PostgreSQL, MongoDB, MS Office, Teamwork, Critical Thinking",PhD,9,1,0,2.16,TensorFlow Developer,Database Administrator
+225,"Database Management, MongoDB, MySQL, Critical Thinking",PhD,6,7,3,2.51,CCNA,Database Administrator
+226,"SQL, MongoDB, MySQL, PostgreSQL, Database Management, Leadership",Bachelors,4,3,3,3.32,None,Database Administrator
+227,"PostgreSQL, Database Management, SQL, Communication, Leadership",Bachelors,8,5,1,2.5,CCNA,Database Administrator
+228,"MongoDB, Database Management, MySQL, GitHub, Critical Thinking, MS Office",Bachelors,6,6,1,2.04,Google Data Analytics,Database Administrator
+229,"PostgreSQL, SQL, MongoDB, MySQL, Leadership, GitHub",Bachelors,4,3,2,2.3,Azure Fundamentals,Database Administrator
+230,"PostgreSQL, MongoDB, SQL, Database Management, Critical Thinking",Bachelors,1,6,0,2.14,AWS CCP,Database Administrator
+231,"Database Management, SQL, PostgreSQL, MongoDB, Critical Thinking, MS Office, Git",Bachelors,0,2,1,3.54,CCNA,Database Administrator
+232,"SQL, PostgreSQL, Database Management, MySQL, Communication, Leadership",Bachelors,8,8,1,3.56,AWS CCP,Database Administrator
+233,"MongoDB, Database Management, SQL, Critical Thinking, GitHub",PhD,5,3,0,3.18,AWS CCP,Database Administrator
+234,"MySQL, SQL, PostgreSQL, MongoDB, Teamwork, Critical Thinking, Communication",Masters,3,4,2,2.35,Azure Fundamentals,Database Administrator
+235,"Database Management, PostgreSQL, SQL, MySQL, MS Office, Critical Thinking",PhD,1,5,1,2.12,TensorFlow Developer,Database Administrator
+236,"MongoDB, PostgreSQL, Database Management, SQL, Git, Problem Solving, MS Office",PhD,5,1,3,3.77,None,Database Administrator
+237,"SQL, MongoDB, PostgreSQL, Problem Solving, Leadership, Git",Bachelors,8,7,2,3.02,None,Database Administrator
+238,"PostgreSQL, SQL, MongoDB, Problem Solving, Git",PhD,6,6,2,3.41,Azure Fundamentals,Database Administrator
+239,"MySQL, Database Management, PostgreSQL, Critical Thinking",PhD,5,7,3,3.56,CCNA,Database Administrator
+240,"Database Management, MongoDB, MySQL, PostgreSQL, Critical Thinking, Git, Teamwork",PhD,8,7,2,3.01,TensorFlow Developer,Database Administrator
+241,"Power BI, Data Analysis, Communication, Excel, Critical Thinking, Leadership",PhD,1,3,2,3.84,TensorFlow Developer,Business Analyst
+242,"Excel, Communication, SQL, Power BI, Data Analysis, GitHub, Communication",Masters,4,8,2,2.5,None,Business Analyst
+243,"Communication, Data Analysis, Excel, Git, MS Office, Critical Thinking",PhD,9,2,1,2.03,TensorFlow Developer,Business Analyst
+244,"Excel, SQL, Data Analysis, Communication, Power BI, Problem Solving, Teamwork",PhD,2,8,0,3.43,CCNA,Business Analyst
+245,"SQL, Excel, Data Analysis, Problem Solving, GitHub",Masters,6,1,1,2.8,TensorFlow Developer,Business Analyst
+246,"SQL, Excel, Communication, GitHub, Critical Thinking, Communication",Bachelors,5,4,1,3.95,AWS CCP,Business Analyst
+247,"Communication, Power BI, Data Analysis, SQL, Excel, MS Office, Problem Solving",Bachelors,4,8,0,2.35,TensorFlow Developer,Business Analyst
+248,"Communication, SQL, Power BI, Git, GitHub, Leadership",PhD,7,5,0,2.17,AWS CCP,Business Analyst
+249,"Data Analysis, Communication, Excel, Communication, Leadership, MS Office",Masters,6,8,0,3.53,AWS CCP,Business Analyst
+250,"SQL, Power BI, Communication, Leadership, Critical Thinking, Communication",Bachelors,5,7,3,2.11,Azure Fundamentals,Business Analyst
+251,"Communication, Data Analysis, SQL, Problem Solving, GitHub",PhD,5,3,3,3.96,AWS CCP,Business Analyst
+252,"Power BI, Communication, Excel, Critical Thinking, MS Office, GitHub",Masters,0,8,1,2.49,CCNA,Business Analyst
+253,"Excel, Data Analysis, Communication, Power BI, Teamwork, Problem Solving, Critical Thinking",PhD,5,7,1,2.54,None,Business Analyst
+254,"Excel, Data Analysis, SQL, Power BI, Communication, Leadership, Communication, MS Office",Masters,3,6,2,2.45,Google Data Analytics,Business Analyst
+255,"Data Analysis, SQL, Communication, Excel, Power BI, Communication, Critical Thinking",PhD,9,3,2,3.73,TensorFlow Developer,Business Analyst
+256,"Data Analysis, Communication, SQL, Communication, MS Office",PhD,3,6,0,3.24,AWS CCP,Business Analyst
+257,"SQL, Excel, Data Analysis, Communication, Leadership",Bachelors,0,4,0,2.17,AWS CCP,Business Analyst
+258,"SQL, Data Analysis, Excel, Power BI, Problem Solving, Teamwork, GitHub",Bachelors,10,3,0,2.5,CCNA,Business Analyst
+259,"Communication, Excel, Power BI, SQL, Data Analysis, MS Office",Bachelors,2,7,2,2.44,Google Data Analytics,Business Analyst
+260,"Power BI, Data Analysis, SQL, Communication, Excel, Leadership, MS Office, Communication",Bachelors,3,7,0,3.87,Google Data Analytics,Business Analyst
+261,"Git, Agile, Selenium, Manual Testing, Leadership, Git",Masters,0,5,3,3.02,TensorFlow Developer,QA Engineer
+262,"Agile, Git, Manual Testing, MS Office, Critical Thinking, Git",Masters,6,1,3,3.16,None,QA Engineer
+263,"Git, Selenium, Agile, Manual Testing, Leadership",PhD,6,7,0,2.32,Azure Fundamentals,QA Engineer
+264,"Git, Manual Testing, Agile, Communication, Problem Solving, MS Office",Bachelors,4,4,1,3.37,None,QA Engineer
+265,"Selenium, Git, Agile, MS Office, Critical Thinking, Communication",Masters,3,2,2,2.16,Google Data Analytics,QA Engineer
+266,"Agile, Selenium, Git, Communication, GitHub",Bachelors,1,7,0,2.78,AWS CCP,QA Engineer
+267,"Manual Testing, Selenium, Git, Agile, Communication",Masters,8,2,3,2.62,CCNA,QA Engineer
+268,"Git, Selenium, Manual Testing, Agile, Leadership, Git",Bachelors,0,4,1,3.9,TensorFlow Developer,QA Engineer
+269,"Git, Agile, Manual Testing, Leadership, MS Office",PhD,10,2,2,3.68,TensorFlow Developer,QA Engineer
+270,"Manual Testing, Git, Agile, Selenium, Communication, Git",PhD,8,2,2,3.1,Azure Fundamentals,QA Engineer
+271,"Selenium, Git, Manual Testing, Communication, MS Office, Git",Bachelors,7,4,0,3.17,Azure Fundamentals,QA Engineer
+272,"Manual Testing, Selenium, Git, Agile, Git",Masters,2,2,2,3.02,Google Data Analytics,QA Engineer
+273,"Agile, Git, Selenium, Git, Leadership, Communication",PhD,9,7,1,2.27,AWS CCP,QA Engineer
+274,"Agile, Selenium, Manual Testing, Teamwork, GitHub",Masters,3,2,3,3.06,AWS CCP,QA Engineer
+275,"Git, Selenium, Manual Testing, Agile, Communication",PhD,9,6,3,2.76,AWS CCP,QA Engineer
+276,"Agile, Manual Testing, Selenium, Git, GitHub, Critical Thinking, Teamwork",PhD,10,8,1,2.91,TensorFlow Developer,QA Engineer
+277,"Agile, Manual Testing, Git, Selenium, MS Office, Critical Thinking, GitHub",Bachelors,3,6,2,2.88,Azure Fundamentals,QA Engineer
+278,"Git, Agile, Selenium, GitHub, Problem Solving, Teamwork",Masters,0,5,0,2.21,CCNA,QA Engineer
+279,"Git, Agile, Manual Testing, Selenium, GitHub, Critical Thinking",Bachelors,6,8,0,2.36,AWS CCP,QA Engineer
+280,"Manual Testing, Git, Agile, Selenium, Teamwork, Problem Solving, Critical Thinking",PhD,8,2,2,2.21,TensorFlow Developer,QA Engineer
+281,"Project Management, Communication, Leadership, Leadership, Critical Thinking, Communication",PhD,8,3,2,3.62,TensorFlow Developer,Project Manager
+282,"Leadership, Project Management, Communication, Leadership",Bachelors,5,2,3,3.64,Google Data Analytics,Project Manager
+283,"Leadership, Communication, Agile, Project Management, Leadership",Bachelors,2,8,0,3.52,Google Data Analytics,Project Manager
+284,"Project Management, Communication, Agile, Communication",PhD,5,7,1,3.58,Google Data Analytics,Project Manager
+285,"Leadership, Agile, Project Management, Communication, MS Office, GitHub, Teamwork",Bachelors,5,3,3,2.53,TensorFlow Developer,Project Manager
+286,"Project Management, Communication, Leadership, Problem Solving, GitHub",PhD,1,4,3,2.52,Google Data Analytics,Project Manager
+287,"Project Management, Leadership, Agile, MS Office",Masters,1,2,0,2.08,None,Project Manager
+288,"Leadership, Agile, Communication, Project Management, Git, Critical Thinking, Communication",Bachelors,5,7,3,3.79,AWS CCP,Project Manager
+289,"Communication, Agile, Project Management, Problem Solving",Masters,7,5,3,2.8,AWS CCP,Project Manager
+290,"Agile, Leadership, Project Management, Leadership, Communication",PhD,2,5,3,2.62,AWS CCP,Project Manager
+291,"Leadership, Communication, Project Management, GitHub, MS Office, Communication",PhD,7,2,1,2.68,Azure Fundamentals,Project Manager
+292,"Leadership, Project Management, Communication, Agile, Git",PhD,0,4,3,2.08,TensorFlow Developer,Project Manager
+293,"Agile, Project Management, Leadership, Communication, Problem Solving",PhD,1,6,0,3.87,None,Project Manager
+294,"Leadership, Communication, Agile, MS Office, Problem Solving",Bachelors,7,1,0,2.32,Azure Fundamentals,Project Manager
+295,"Agile, Leadership, Project Management, Communication, Teamwork",Masters,1,1,2,3.32,Azure Fundamentals,Project Manager
+296,"Leadership, Agile, Communication, Teamwork, Critical Thinking",PhD,5,6,0,2.21,CCNA,Project Manager
+297,"Communication, Agile, Project Management, Leadership, Critical Thinking, Problem Solving, GitHub",Masters,9,7,3,3.4,AWS CCP,Project Manager
+298,"Agile, Leadership, Communication, Project Management, Teamwork",Masters,4,3,3,2.13,TensorFlow Developer,Project Manager
+299,"Leadership, Agile, Communication, Critical Thinking, Leadership",PhD,6,5,0,2.31,AWS CCP,Project Manager
+300,"Leadership, Project Management, Agile, Communication, Critical Thinking, MS Office",Bachelors,10,6,0,3.89,CCNA,Project Manager
